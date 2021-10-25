@@ -1,1 +1,3 @@
 # Cplusplus-Program
+
+# This project, overall, was a great exercise in applying all things learned within this class, but also having some freedom to add in ideas that weren't necessarily part of the assignment. For example, I liked learning how to -- and then implementing -- different coloring for the different menus based on users' choices. Reflecting on the overall material, I still can't quite confirm if I feel like a "true" C++ developer, and definitely want to keep exploring different languages and see which feel the most "right" to me. I'm grateful for the challenges we faced in this class, the concepts learned that I didn't know really existed before (i.e., combining C++ and Python within the same project; using pointers for working with memory; etc).
